@@ -140,11 +140,6 @@
   padding-block: 2.5rem;
 }
 
-.content,
-.footer {
-  background-color: var(--bg-color);
-}
-
 .content-section {
   display: grid;
   gap: 1.25rem;

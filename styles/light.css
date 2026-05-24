@@ -13,6 +13,7 @@
   --title-color: #ffc2e6;
   --decor-color: #353430;
   --title-shadow: #ff8dcb;
+  --button-hover-color: #32312D66;
   --link-hover-color: #353430;
   --link-focus-color: #353430;
 }
@@ -31,6 +32,7 @@
     --title-color: #ffc2e6;
     --decor-color: #353430;
     --title-shadow: #ff8dcb;
+    --button-hover-color: #32312D66;
     --link-hover-color: #353430;
     --link-focus-color: #353430;
   }
