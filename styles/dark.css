@@ -10,7 +10,10 @@
   --text-color: #f1b2ce;
   --accent-color: #ff0070;
   --accent-title-color: #000028;
+  --button-hover-color: rgb(255 0 112 / 0.4);
   --title-color: #db00ff;
   --decor-color: #ff0070;
   --title-shadow: #ff0070;
+  --link-hover-color: #f1b2ce;
+  --link-focus-color: #f1b2ce;
 }
